@@ -1,4 +1,7 @@
 
+*{
+  background-color: chartreuse;  
+}
 #Next{
     border: 1px solid black;
     border-radius: 10px;
