@@ -1,0 +1,48 @@
+
+#Next{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+    display:none;
+}
+#back{
+    border: 1px solid black;
+border-radius: 10px;
+width: 70px;
+height: 30px;
+display: none;
+} 
+#Next:hover{
+    background-color: rgb(204, 208, 211);
+}
+
+#back:hover{
+    background-color: rgb(204, 208, 211);
+}
+#div1{
+    width: 300px;
+    height: 300px;
+    display: block;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#div2{
+    width: 300px;
+    height: 150px;
+    display: block;
+    border-bottom: 1px solid black;
+}
+#Play{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+}
+#Submit{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+    display:none;
+}
